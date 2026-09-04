@@ -5,6 +5,23 @@
 =========================================
 
 =========================================
+	Update: Aug 04 2026
+=========================================
+		Dashloader update:
+			Bumped to v2.2.2
+
+		Extras disc update:
+			Bumped hardmod dashloader version to v2.2.2
+			Added latest Dashloader customizer
+			Added the latest UIX Lite
+			Updated XBMC4Xbox to my latest 3.6 dev build.
+			(has fixes and stuff ported from gamers)
+
+		Endgame installer:
+			Updated the endgame installer and packed-xbe-launcher2 source that is used for the payload.xbe
+			Hopefully this version works for all, its smaller and better.
+
+=========================================
 	Update: May 24 2026
 =========================================
 		Dashloader update:
